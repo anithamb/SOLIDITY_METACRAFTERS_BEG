@@ -1,5 +1,6 @@
 # MetacraftersSolidity Beginner Project_Create token
-This is a learning project in solidity of Metacrafters.io.
+This is a learning project in solidity of Metacrafters.io.Solidity is a high-level programming language designed for implementing smart contracts.
+
 
 ## Description
 This project includes a SolidityToken.sol file in which MyToken contract is written in Solidity version 0.8.18. 

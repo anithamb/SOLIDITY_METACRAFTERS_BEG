@@ -1,4 +1,4 @@
-# MetacraftersSolidity Beginner Project_Create token
+# Metacrafters Solidity BeginnerEVM Project1_Create token
 This is a learning project in solidity of Metacrafters.io. Solidity is a high-level programming language designed for implementing smart contracts.
 
 

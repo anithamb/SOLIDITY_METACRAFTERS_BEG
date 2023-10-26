@@ -1,5 +1,5 @@
 # MetacraftersSolidity Beginner Project_Create token
-This is a learning project in solidity of Metacrafters.io.Solidity is a high-level programming language designed for implementing smart contracts.
+This is a learning project in solidity of Metacrafters.io. Solidity is a high-level programming language designed for implementing smart contracts.
 
 
 ## Description

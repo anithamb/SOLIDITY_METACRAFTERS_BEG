@@ -9,6 +9,6 @@ This program is a smart contract written in Solidity, a programming language use
 This project can be run using solidity compiler. I have used Remix website at the https://remix.ethereum.org/ for compiling and deploying the contract. After successfully compliling and deploying the contract tokenName, tokenAbbr and tokenSupply variables can be called to get token name 'TECHMB', token abbreviation 'TECM' and total token supply which is 0 initially. Call the mint function providing the address and value to increase the total token supply and balance of the specified token address. Call the burn function providing the address and value to decrease the total token supply and balance of the specified token address. Burn function will be executed only if sufficient balance is available in address. Call the tokenSupply variable to confirm the changes in the total taken suupy after calling the mint and burn functions.
 
 ## Authors
- AnithaMB
+ AnithaMB//
  Metacrafter
 https://academy.metacrafters.io/
